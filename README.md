@@ -1,5 +1,8 @@
 # httpobs-local
-Run Mozillas http-observatory locally in a Docker container
+Run Mozillas http-observatory locally in a Docker container. See
+
+* https://observatory.mozilla.org/
+* https://github.com/mozilla/http-observatory
 
 ## Prerequisites
 Docker installed. 
