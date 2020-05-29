@@ -8,6 +8,8 @@ Run Mozillas http-observatory locally in a Docker container. See
 Docker installed. 
 
 ## Usage
+Execute scripts in a shell (Linux) or the git bash (Windows). Requires root or sudo on Linux.
+
 Build docker image: `./build.sh` 
 
 Run: `HOST=<HOST> HTTP_PORT=<PORT> (HTTPS_PORT=<HTTPS_PORT>) ./run.sh`
